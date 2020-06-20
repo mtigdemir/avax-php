@@ -1,0 +1,9 @@
+{
+    "jsonrpc": "2.0",
+    "result": {
+        "address": "NcbCRXGMpHxukVmT8sirZcDnCLh1ykWp4",
+        "nonce": "0",
+        "balance": "0"
+    },
+    "id": 1
+}

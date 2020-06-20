@@ -1,0 +1,18 @@
+{
+   "jsonrpc":"2.0",
+   "result":{
+      "checks":{
+         "network.validators.heartbeat":{
+            "message":{
+               "heartbeat":1591041377
+            },
+            "timestamp":"2020-06-01T15:56:18.554202-04:00",
+            "duration":23201,
+            "contiguousFailures":0,
+            "timeOfFirstFailure":null
+         }
+      },
+      "healthy":true
+   },
+   "id":1
+}

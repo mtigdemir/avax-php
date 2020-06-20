@@ -1,0 +1,15 @@
+{
+    "jsonrpc": "2.0",
+    "result": {
+        "validators": [
+            {
+                "startTime": "1592400591",
+                "endtime": "1622923025",
+                "stakeAmount": "10000",
+                "address": "6cesTteH62Y5mLoDBUASaBvCXuL2AthL",
+                "id": "DpL8PTsrjtLzv5J8LL3D2A6YcnCTqrNH9"
+            }
+        ]
+    },
+    "id": 1
+}

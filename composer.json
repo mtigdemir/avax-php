@@ -1,0 +1,35 @@
+{
+    "name": "mtigdemir/ava-php",
+    "keywords": ["ava", "api", "client", "blockchain"],
+    "description": "AVA Labs Gecko PHP Client",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Muharrem Tigdemir",
+            "email": "muharrem.tigdemir@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.1.0",
+        "guzzlehttp/guzzle": "^6.2",
+        "ext-json": "*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "AVA\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/",
+            "Tests\\AVA\\": "tests/AVA/"
+        }
+    },
+    "scripts": {
+        "test": "./vendor/bin/phpunit tests"
+    }
+}
