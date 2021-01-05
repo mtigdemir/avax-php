@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/mtigdemir/ava-php.svg?branch=master)](https://travis-ci.org/mtigdemir/ava-php)
 
-PHP Client Wrapper for AVA Nodes https://docs.ava.network/v1.0/en/api/intro-apis/
+PHP Client Wrapper for AVA Nodes https://docs.avax.network/build/avalanchego-apis
 
 ## Requirements
 - Up & running AVA Node to use PHP Client
