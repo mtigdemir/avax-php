@@ -1,4 +1,4 @@
-# AVA Client for PHP
+# AVAX Client for PHP
 
 [![Build Status](https://travis-ci.org/mtigdemir/ava-php.svg?branch=master)](https://travis-ci.org/mtigdemir/ava-php)
 
